@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @mansaharmony
+- 👀 I’m interested in web development, graphic design, and AI.
+- 🌱 I’m currently learning JavaScript and UX/UI design.
+- 💞️ I’m looking to collaborate on open-source projects and web applications.
+- 📫 How to reach me: You can reach me via email at newconglomerate6@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mansaharmony/).
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I enjoy experimenting with new graphic design techniques.
